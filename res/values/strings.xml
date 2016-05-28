@@ -1,0 +1,1111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="oneyear">700 RMB - One year end to end secure call\n2400 minutes VoIP call to fix/mobile phone worldwide </string>
+	<string name="twoquarter">350 RMB -  6 months end to end secure call\n1200 minutes VoIP call to fix/mobile phone worldwide</string>
+	<string name="onequarter">180 RMB - 3 months end to end secure call\n600 minutes VoIP call to fix/mobile phone worldwide </string>
+    <!-- for community -->
+    <string name="group_top_what">What?!</string>
+    <string name="summary_on">The preference is on</string>
+    <string name="summary_off">The preference is off</string>
+    <string name="switch_on">Yes</string>
+    <string name="switch_off">No</string>
+    <string name="msg_bind_email">If you also linked your email address, you can change the phone number, and use the service on our website</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Enter password</string>
+    <string name="label_login">Login</string>
+    <string name="msg_password_empty">Please enter password</string>
+    <string name="label_my_home">Home</string>
+    <string name="label_close_fri">V-friends</string>
+    <string name="label_community">O-World</string>
+    <string name="title_community">Board</string>
+    <string name="label_current_ver">Current version</string>
+    <string name="commentIsNullPrompt"> Please type your comment!</string>
+    <string name="someoneHomepageTitle"></string>
+    <string name="xlistview_header_hint_normal"> Refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh</string>
+    <string name="xlistview_header_hint_loading"> Loading...</string>
+    <string name="xlistview_header_last_time"> Last updated at:</string>
+    <string name="xlistview_footer_hint_normal">Load more</string>
+    <string name="xlistview_footer_hint_ready">Release to load more</string>
+    <string name="register_dialog_code">Verification code will be sent to\n</string>
+    <string name="entershowdialog_content">SMS may be delayed\n do you want to restart? </string>
+    <string name="afreshStart">Restart</string>
+    <string name="endCancel">Cancel</string>
+    <string name="Send">Send</string>
+    <string name="netWordNo">Network disconnected</string>
+    <string name="enterverify_tvContent">This number is registered\nPlease reset password to protect the account</string>
+    <string name="enterverify_tvLogin">Enter directly</string>
+    <string name="question_dialog_forget_vic">Forgot password</string>
+    <string name="question_dialog_tel_vic">Login with phone number</string>
+    <string name="register_dialog_OK"></string>
+    <!-- <string name="Again_input_code">Resend verification code</string> -->
+    <string name="Again_input_code">Receving</string>
+    <string name="Register_Pass">Create a password to protect your account,you can use the password login directly next time.   </string>
+    <string name="SettingNameRule">Less than 40 characters, with letters or numbers</string>
+    <string name="title_PassInter">New Password</string>
+    <string name="title_countryCode">Country code</string>
+    <string name="title_retrievePass">Forgot password</string>
+    <string name="dilog_title_tel">Note</string>
+    <string name="title_Serve_dialog">Did you agree</string>
+    <string name="msg_term_tips_content">Please read Terms and Privacy Policy</string>
+    <string name="RegisterTelError">Invalid phone number</string>
+    <string name="lv_top_Popup_one">Turn-off notification</string>
+    <string name="AboutNoEmail">You need to install email client</string>
+    <string name="lv_top_Popup_two">Break up</string>
+    <string name="lv_top_Popup_three">Clear history</string>
+    <string name="About">About</string>
+    <string name="clean_all_content">Do you want to clear chat history</string>
+    <string name="lv_top_Popup_four">Create Club</string>
+    <string name="club">Club?</string>
+    <string name="login">Log in</string>
+    <string name="loginByQQ">QQ Log in</string>
+    <string name="sina_login">Weibo Log in</string>
+    <string name="forget_login_dialog_text">Problem?</string>
+    <string name="tv_network_status_good">Your network is stable</string>
+    <string name="tv_network_status_kind">Your network is not stable</string>
+    <string name="out_coming_view_mute">Mute</string>
+    <string name="out_coming_view_loudspeaker">Speaker</string>
+    <string name="out_coming_view_hangup">End call</string>
+    <string name="lx_call_in_layout_noCall">Decline</string>
+    <string name="lx_call_in_layout_yusCall">Accept</string>
+    <string name="confirmpass">Confirm</string>
+    <string name="settingPassHint">Password 6–15</string>
+    <string name="againPassHint">Confirm Password</string>
+    <string name="againPassNo">Password you\'ve entered are not same</string>
+    <string name="password_error">Wrong password</string>
+    <string name="PassOk">OK</string>
+    <string name="register_Serve_dialog_code">Please read Terms and Privacy Policy</string>
+    <string name="Register_OK_dialog">Congratulations!</string>
+    <string name="VIC_main_dia">Your ID is\n</string>
+    <string name="VIC_main_Text"></string>
+    <string name="changeName">Switch Account</string>
+    <string name="RegisterUserName">Sign up</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="release_to_refresh">release to refresh</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="not_updated_yet">Not yet updated</string>
+    <string name="updated_at">Last updated at %1$s ago</string>
+    <string name="updated_just_now">Just updated</string>
+    <string name="time_error">Error time</string>
+    <string name="collect_error">You can only save photos</string>
+    <string name="pass_error">Invalid Password</string>
+    <string name="pass_ok">Success</string>
+    <string name="group_crowd_member">Club members</string>
+    <string name="Photo_Detail">Detail information</string>
+    <string name="group_update_time">Last updated at:</string>
+    <string name="group_create_crowd">Create a new Club</string>
+    <string name="group_proposeName">Recommendations</string>
+    <string name="group_SwitchNo">No</string>
+    <string name="group_SwitchYes">Yes</string>
+    <string name="label_take_Album">Album</string>
+    <string name="copy">copyright@MobileOTT</string>
+    <string name="AboutContent">Contact us&#160;&#160;&#160;:&#160;&#160;contact@mobileott.com\nQQ group &#160;:&#160;&#160;272855075\nTel &#160;&#160;&#160;:&#160;&#160;01058739955</string>
+    <string name="AboutHelp">FAQ</string>
+    <string name="AboutScore">Rate us</string>
+    <string name="AboutFeedback">Feedback</string>
+    <string name="make_my_infor">Edit profile</string>
+    <string name="select_type">Select a community</string>
+    <!-- for RelationStatus -->
+    <string name="addFriendSuccess">Added</string>
+    <string name="addCloseFriendSucess">Added</string>
+    <string name="addCloseFriendSuccess">Can\'t find chat history after hearted? Don\'t worry, go to your Private Space enjoy private chatting!</string>
+    <string name="toast_doing">Coming soon</string>
+    <string name="cancelCloseFriendSuccess">Broke up successfully!</string>
+    <string name="addFriendFailed">Add friend failed, please try later!</string>
+    <string name="addCloseFriendFailed">You are not friends. You can\'t Heart him/her.</string>
+    <string name="cancelCloseFriendFailed">Break up failed, please try later</string>
+    <!-- 图片为空时的文字描述 ,desc when the image is null -->
+    <string name="contentDescription">empty image</string>
+    <!-- for chathistory -->
+    <string name="no_chatrecord">You haven\'t start chatting</string>
+
+    <!-- 发布信息页面的文字 -->
+    <string name="publishNewsTitle">Post</string>
+    <string name="forward_news">Forward a post</string>
+    <string name="publishNewsHintText">Say something</string>
+    <string name="addPic">Add photo</string>
+    <!-- test -->
+    <string name="waitText">Please wait for a while...</string>
+    <string name="publishText">sending</string>
+    <string name="publishSuccess">Posted successfully!</string>
+    <string name="forwardSuccess">Forwarded successfully!</string>
+    <string name="publishError">Upload post failed, please try later</string>
+    <string name="publishFail">Upload post failed, please try later</string>
+
+    <!-- for comment -->
+    <string name="commentSuccess">Added comment successfully</string>
+    <string name="commentFail">Add comment failed</string>
+    <!-- for calling -->
+    <string name="msg_user_busy">No answer...</string>
+    <string name="msg_user_offline"> is off-line, please redial later</string>
+    <string name="msg_user_declined">is busy...</string>
+    <string name="msg_calling_over">End call</string>
+    <string name="msg_calling">Calling...</string>
+    <string name="msg_call_running">Calling  </string>
+    <string name="msg_user_not_found">is off-line, please redial later</string>
+    <string name="msg_cancel_calling">Calling. Press End Call to cancel</string>
+    <string name="msg_network_err">network error</string>
+    <string name="msg_call_err">Weak connection, please redial later</string>
+    <string name="label_call_ok">Ok</string>
+    <string name="label_not_use">No</string>
+    <string name="message">By deleting the contact, all the chat history will be deleted.</string>
+
+    <!-- for friends -->
+    <string name="msg_no_fri">You don\'t have any friend</string>
+    <string name="msg_get_fri_err">Load friends failed</string>
+    <string name="msg_call_tip">Only friends can make free calls</string>
+
+    <!-- button上面的提示文字 -->
+    <string name="confirm">Ok</string>
+
+    <!-- popupwind上面的文字 -->
+    <string name="cameraPromt">Take a photo</string>
+    <string name="picPromt">Photo</string>
+    <string name="cancelPromt">Back</string>
+
+    <!-- 上传照片的最大数量 -->
+    <string name="maxSize">6</string>
+    <!-- 照片超过限定的提示 -->
+    <string name="outOfMaxPromtStart">Sorry, maximum</string>
+    <string name="outOfMaxPromtEnd">photos</string>
+    <!-- 消息不能为空提示 -->
+    <string name="messageIsNotNullPrompt">Say something</string>
+    <!-- 发布消息选择社区界面的提示文字 -->
+    <string name="degreeOfSharing">Share with</string>
+    <string name="shareCommunity">Tag</string>
+    <string name="openForEveryOne">Public</string>
+    <string name="openForCloseFriend">Only Hearted friends</string>
+    <string name="fashion">Events</string>
+    <string name="food">Gourmet</string>
+    <string name="technology">Travel</string>
+    <string name="business">Technology</string>
+    <string name="entertainment">Fashion</string>
+    <string name="car">Entertainment</string>
+    <string name="other">Other</string>
+    <string name="say_something">Say something</string>
+    <string name="msg_get_pin_sucess">Verification code sent</string>
+    <string name="msg_tel_empty"> Please enter your phone number</string>
+    <string name="msg_pincode_err">Invalid Verification code</string>
+    <string name="msg_pincode_veri_more">You\'ve tried too many times, please request for a new verification code.</string>
+    <string name="msg_pincode_empty">Please enter the verification code</string>
+    <string name="msg_req_pincode_err"> Request for verification code failed</string>
+    <string name="msg_verify_pincode_err"> Wrong verification code</string>
+    <string name="msg_register_userinfo_err"> Registration failed</string>
+    <string name="msg_username_empty">Please set your photo and nickname in order to other friends can find you~</string>
+    <string name="msg_register_private">By using this app,I agree to Terms of service and Privacy Policy</string>
+    <!-- for friend -->
+    <string name="msg_add_fri_err">Add friend failed</string>
+    <string name="msg_add_fri_ok">Add friend successfully</string>
+    <string name="label_add_fri">Add</string>
+    <string name="label_already_fri">Added</string>
+    <string name="label_fri_not_found">We can\'t find your friend</string>
+    <string name="label_search_fri_err">Search friend failed</string>
+    <string name="label_search_by_tel">Add friends</string>
+    <string name="label_search_frd">Add contacts</string>
+    <string name="label_recommand_sms">Tell a friend</string>
+    <string name="two_dimension_code_search">Search for QR Code</string>
+    <string name="label_recommand_email">Share</string>
+    <string name="msg_no_recommand_fri">You don\'t have any friend request</string>
+    <string name="msg_req_recommand_fri_err">Get friend requests failed</string>
+    <string name="label_dlg_title_tip">Note</string>
+    <string name="msg_one_point_tips">You\'ve used another device</string>
+    <string name="label_ok">Yes</string>
+    <string name="app_name">MOTTSDK</string>
+    <string name="send_message">send message</string>
+    <string name="action_settings">Settings</string>
+    <string name="system_login">Login</string>
+    <string name="username">Email address</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="resend">Resend?</string>
+    <!-- <string name="recommendations_app_title">360手机最新版下载</string> -->
+    <!-- <string name="recommendations_app_message">数十万款Android软件和游戏供您下载，360安全中心检测全方位安全保障。</string> -->
+    <!-- <string name="recommendations_app_url">http://openbox.mobilem.360.cn/channel/getUrl?src=cp&amp;app=360box</string> -->
+    <string name="register_ok">Registration</string>
+    <string name="phone">Phone number</string>
+    <string name="friend_list">Friend list</string>
+    <string name="register">New user</string>
+    <string name="register_phone">phone number</string>
+    <string name="register_num">Verification code:</string>
+    <string name="register_getnum">Get verification code</string>
+    <string name="longin_main_title">You\'ve already registered </string>
+    <string name="login_input_code">Please enter verification code</string>
+    <string name="free">Free</string>
+    <!-- <string name="bind_email">Enter your email address</string> -->
+    <string name="bind_email">ID/Phone number</string>
+    <string name="EnterVerifyOvertime">Invalid verification code</string>
+    <string name="EnterVerifyContent">To protect your account, verification code is only valid within 30mins\nYour code is expired\nPlease get a new one</string>
+    <string name="login_input_password">Password</string>
+    <string name="forget_password_text">Forgot Your Password?</string>
+    <string name="unbind_email_text">Not linked to your email</string>
+    <string name="regist_enter_phone_hit">Please enter your phone number</string>
+    <string name="regist_enter_phone_hit_new">Phone Number</string>
+    <string name="fuwu"> terms and conditions</string>
+    <string name="check_text">Next</string>
+    <string name="agree_next">Agree and next</string>
+    <string name="contry">China(CN)</string>
+    <string name="contry_code">+86</string>
+    <string name="addverf_code">Please enter verification code</string>
+
+    <!-- for login register -->
+    <string name="label_register">Sign up</string>
+    <string name="label_login_by_tel">Login with phone number</string>
+    <string name="msg_enter_tel_tips">Please confirm your country code and enter your phone number</string>
+    <string name="label_next">Next</string>
+    <!-- <string name="label_next">重新获取验证码</string> -->
+    <string name="msg_term_tips_one">I agree with the &#160;</string>
+    <string name="msg_term_tips"><u>terms of use and the privacy policy</u></string>
+    <string name="title_enter_tel">Sign up</string>
+    <string name="title_verify_pincode">Verification</string>
+    <!-- <string name="verify_pincode_tips">We just sent you an SMS with a verification code at %1$s\nthe 4 digits verification code will automatically appear blow</string> -->
+    <!-- <string name="verify_pincode_tips">Your phone number: %1$s,\n we will send to you a code for your phone</string> -->
+    <string name="verify_pincode_tips">We just sent an SMS with a code to you at .Enter the 4 digit code below</string>
+    <string name="input_pincode">Verification Code</string>
+    <!-- <string name="verify_pincode_tipstwo">Verification code has been sent to your phone, and it would be automatically detected</string> -->
+    <string name="label_get_pincode_again">Resend</string>
+    <!-- <string name="label_setting_tips">Add a photo</string> -->
+    <string name="label_setting_tips">Type your name</string>
+    <!-- <string name="label_enter_name">Enter your name</string> -->
+    <string name="label_enter_name">Type your name with 1-40 characters</string>
+    <string name="label_auto_add_fri">Auto add friends</string>
+    <string name="label_accept_add_fri">Allow others to add</string>
+    <string name="auto_add_fri_tips">Using your device\'s contacts list, </string>
+    <string name="accept_add_fri_tips">all your friends already using MobileOTT will be automatically added to your friends list</string>
+    <!-- <string name="title_user_info">Complete your information</string> -->
+    <string name="title_user_info">Profile</string>
+    <string name="title_select_favorate">Choose your interests</string>
+    <string name="select_favorate_tip">Choose your interests and find new friends</string>
+    <string name="label_finish">Done</string>
+    <string name="label_bind_mail_ok">Confirm</string>
+    <string name="label_bindmail">In order to protect your account information, you can link your email address or do it later.</string>
+    <string name="label_mail">Email address</string>
+    <string name="label_enter_mail">Enter email address</string>
+    <string name="label_enter_password_again">Confirm password</string>
+    <string name="label_bind_cancel">Later</string>
+    <string name="title_help">FAQ</string>
+    <string name="title_term">Terms</string>
+    <string name="msg_pls_read_term">Please read the terms of service and the privacy policy</string>
+    <string name="label_policy_term">Terms of service and the privacy policy</string>
+    <string name="label_contract_us">Contact us:\u0020</string>
+    <string name="mail_address">contact@mobileott.com</string>
+    <string name="title_about_us">About</string>
+    <string name="msg_logout">Do you want to log out?</string>
+    <string name="label_search">Search</string>
+    <string name="label_end">End call</string>
+
+    <!--
+         正式服务器：http://qqh.qxun.org/QQHApiServer/api/
+    	   测试服务器：http://test.qxun.org/QQHApiServer/api/
+    	   新的服务器：
+    -->
+    <string name="login_url">http://qqh.qxun.org/QQHApiServer/api/</string>
+    <!-- <string name="login_url">https://192.168.10.189/QQHApiServer/api/</string> -->
+    <string name="baidu_key">E129DB4045FFA8B0CD961C2C8B5BA13448D8A223</string>
+    <string name="maxLength">2000</string>
+    <string name="maxLines">4</string>
+    <!-- 可能会用到的屏幕适配 -->
+    <string name="width">720</string>
+    <string name="height">1280</string>
+    <string name="addressContact">VoIPout</string>
+    <string name="personinfo">Me</string>
+    <string name="Photo_comment"> Comment</string>
+    <string name="communicationslist">MobileOTT</string>
+    <string name="contacts">Friends</string>
+    <string name="timeline">Home</string>
+    <string name="closeFriend">Heart</string>
+    <string name="main_homepage">Home</string>
+    <string name="phone_number_error">Please enter phone number</string>
+    <string name="regist_suc">Register successfully!</string>
+    <string name="begin_chat">Let\'s start</string>
+    <string name="sure">OK</string>
+    <string name="cancle">Cancel</string>
+    <string name="send_suc">Sent successfully</string>
+    <string name="sending">Sending</string>
+    <string name="waiting">Please wait</string>
+    <string name="ver_code_error">Wrong verification code</string>
+    <string name="suspended">Service stopped</string>
+    <string name="network_unwork">network error </string>
+    <string name="delete_zh">Delete</string>
+    <string name="collection">Favourite</string>
+    <string name="all_empty">All Empty</string>
+    <string name="Whether_empty_buddy_list">Whether Empty Buddy List ?</string>
+    <string name="forwarding_community_message">Forward Post</string>
+    <!-- XMPP begin -->
+
+    <string name="xmpp_no_other">Only friends can send voice messages and multimedia messages</string>
+    <string name="xmpp_no_call">Only friends can make free calls</string>
+    <string name="xmpp_add_friend_and_call">Add as friend to call for free</string>
+    <string name="xmpp_text_message">just sent you a message</string>
+    <string name="xmpp_recording_message">just sent you a voice message</string>
+    <string name="xmpp_picture_message">just sent you a photo</string>
+    <string name="xmpp_video_message">just sent you a video</string>
+    <string name="xmpp_card_message">just sent you a name card</string>
+    <string name="xmpp_location_message">just sent you a location</string>
+    <string name="xmpp_recording_begin">Recording</string>
+    <string name="xmpp_not_open_now">Under construction</string>
+    <string name="xmpp_recording_time_zero">00:00</string>
+    <string name="xmpp_recording_time_send">Send</string>
+    <string name="xmpp_recording_time_cancel">Cancel</string>
+    <string name="xmpp_recording_time_picture">Photo</string>
+    <string name="xmpp_recording_time_video">Video</string>
+    <string name="xmpp_recording_time_loaction">Location</string>
+    <string name="xmpp_recording_time_card">Card</string>
+    <string name="xmpp_recording_time_map">Location</string>
+    <string name="xmpp_picture_select">Choose location</string>
+    <string name="xmpp_picture">Album</string>
+    <string name="xmpp_camera">Camera</string>
+    <string name="xmpp_not_open">Under construction</string>
+    <string name="xmpp_chat">Chat</string>
+    <string name="xmpp_input_psw">Please enter 4 digits code</string>
+    <string name="xmpp_input_wrong_psw">Wrong code</string>
+    <string name="xmpp_input_psw_again">Please enter again</string>
+    <string name="xmpp_input_wrong_psw_two">The passwords you\'ve entered are not the same</string>
+    <string name="xmpp_favorite_input_password">Enter code</string>
+    <string name="xmpp_favorite_input_password_again">Confirm code</string>
+    <string name="xmpp_favorite_set_password">Choose a code</string>
+    <string name="xmpp_chat_setup_addfriend">Invite friend to chat</string>
+    <string name="xmpp_chat_setup_updatename">Change chat room name</string>
+    <string name="xmpp_chat_setup_favorites">Favourites</string>
+    <string name="xmpp_chat_setup_add">Add</string>
+    <string name="xmpp_chat_setup_delete_chathistory">Delete chat history</string>
+    <string name="xmpp_chat_select_friend">Choose contact</string>
+    <string name="xmpp_new_chat_nofriend">You don\'t have any friend, add one?</string>
+    <string name="xmpp_new_chat_share_friend">Share location</string>
+    <string name="xmpp_new_chat_card">Name card</string>
+    <string name="xmpp_new_chat_contant_nofriend">Please add a friend from your address book</string>
+    <string name="xmpp_new_chat_send_nothing">Please enter</string>
+    <string name="xmpp_new_chat_clear_chathistory">Done</string>
+    <string name="xmpp_new_chat_month">-</string>
+    <string name="xmpp_new_chat_day"></string>
+    <string name="xmpp_new_chat_say_something">Send a message to </string>
+    <string name="xmpp_new_chat_no_location">Checking location</string>
+    <string name="xmpp_new_chat_no_network">No network, try it later</string>
+    <string name="xmpp_new_chat_recording_message">Voice message</string>
+    <string name="xmpp_new_chat_dialed_call">1 call made</string>
+    <string name="xmpp_new_chat_received_call">1 received call</string>
+    <string name="xmpp_new_chat_missed_call">Missed call</string>
+    <string name="clear_the_chat_record">Delete</string>
+    <!-- XMPP end -->
+
+
+    <!-- homepage began -->
+    <string name="user_setting_recommendations">Recommendations</string>
+    <string name="user_setting_about_us">About us</string>
+    <string name="user_setting_update_version">Current version</string>
+    <string name="user_setting_help">FAQ</string>
+    <string name="user_setting_allow_add_friend">Auto add friends</string>
+    <string name="user_setting_auto_add_friend">Allow others to add</string>
+    <string name="user_setting_function_setting">Settings</string>
+    <string name="user_setting_myhomepage">Home</string>
+    <string name="user_setting_myhomepage_name">Name</string>
+    <string name="user_setting_myhomepage_city">Region</string>
+    <string name="toast_cm">No network, sending failed</string>
+    <string name="toast_video_larger">Video is too large</string>
+    <string name="toast_search_no_phonenum">We didn\'t find your friends</string>
+    <string name="toast_record_small">Recording was too short</string>
+    <string name="toast_open_url">whether to open?</string>
+    <!-- homepage end -->
+
+
+    <!-- 表情 begin -->
+    <string name="expression_0">[Smile]</string>
+    <string name="expression_1">[Laugh]</string>
+    <string name="expression_2">[Grimacing Face]</string>
+    <string name="expression_3">[Shy]</string>
+    <string name="expression_4">[Cute]</string>
+    <string name="expression_5">[Naughty]</string>
+    <string name="expression_6">[Love]</string>
+    <string name="expression_7">[Kiss]</string>
+    <string name="expression_8">[Cry]</string>
+    <string name="expression_9">[Tears]</string>
+    <string name="expression_10">[Grin]</string>
+    <string name="expression_11">[Angry]</string>
+    <string name="expression_12">[Dumb]</string>
+    <string name="expression_13">[Surprise]</string>
+    <string name="expression_14">[Sick]</string>
+    <string name="expression_15">[Embarrass]</string>
+    <string name="expression_16">[Disappointed]</string>
+    <string name="expression_17">[Faint]</string>
+    <string name="expression_18">[Contempt]</string>
+    <string name="expression_19">[Crazy]</string>
+    <string name="expression_20">[Sleepy]</string>
+    <string name="expression_21">[Sweat]</string>
+    <string name="expression_22">[Devil]</string>
+    <string name="expression_23">[Ghost]</string>
+    <string name="expression_24">[Fist]</string>
+    <string name="expression_25">[Ok]</string>
+    <string name="expression_26">[High]</string>
+    <string name="expression_27">[Victory]</string>
+    <string name="expression_28">[Muscle]</string>
+    <string name="expression_29">[Clap]</string>
+    <string name="expression_30">[Pray]</string>
+    <string name="expression_31">[Fireworks]</string>
+    <string name="expression_32">[Heart]</string>
+    <string name="expression_33">[Bow]</string>
+    <string name="expression_34">[Crown]</string>
+    <string name="expression_35">[Plane]</string>
+    <string name="expression_36">[Sail-boat]</string>
+    <string name="expression_37">[Cat]</string>
+    <string name="expression_38">[Bus]</string>
+    <string name="expression_39">[Taxi]</string>
+    <!-- 表情 end -->
+
+
+    <!-- 贴纸2 -->
+    <string name="st_catty1_01"></string>
+    <string name="st_catty1_02"></string>
+    <string name="st_catty1_03"></string>
+    <string name="st_catty1_04"></string>
+    <string name="st_catty1_05"></string>
+    <string name="st_catty1_06"></string>
+    <string name="st_catty1_07"></string>
+    <string name="st_catty1_08"></string>
+    <string name="st_catty1_09"></string>
+    <string name="st_catty1_10"></string>
+    <string name="st_catty1_11"></string>
+    <string name="st_catty1_12"></string>
+    <string name="st_catty1_13"></string>
+    <string name="st_catty1_14"></string>
+    <string name="st_catty1_15"></string>
+    <string name="st_catty1_16"></string>
+
+    <!-- for setting -->
+    <string name="label_edit">Edit</string>
+    <string name="label_name">Name</string>
+    <string name="lable_sex">Gender</string>
+    <string name="label_bind_mail_tips">Note: you can only change your phone number after linked your account with an email address</string>
+    <string name="label_logout_account">Log Out</string>
+    <string name="label_back">Back</string>
+    <string name="title_userinfo_setting">Profile info</string>
+    <string name="label_unbind_mail">Not yet linked with email address</string>
+    <string name="msg_photo_picker_notfound">You don\'t have any photo</string>
+    <string name="msg_modify_userinfo_sucess">Updated</string>
+    <string name="msg_modify_userinfo_err">Name can\'t null</string>
+    <string name="label_bind">Link</string>
+    <string name="title_bind_mail">Email</string>
+    <string name="msg_password_hint">Password (6-12 digits)</string>
+    <string name="msg_email_format_err">Wrong email address, please enter again</string>
+    <string name="msg_password_err">The passwords you\'ve entered are not the same</string>
+    <string name="msg_mail_empty">Please enter email address</string>
+    <string name="msg_password_empry">Please enter a password</string>
+    <string name="msg_bind_ok">Linked successfully</string>
+    <string name="msg_bind_err">Link failed</string>
+    <string name="msg_mail_has_bind">This email address is linked with an other account</string>
+    <string name="label_binded_mail">Linked email address</string>
+    <string name="title_enter_password">Enter password</string>
+    <string name="msg_password_format_err">Wrong password(6 to 12 digits)</string>
+    <string name="msg_tel_already_register">This number is already registered, please enter again</string>
+    <string name="msg_tel_modify_sucess">Changed phone number successfully</string>
+    <string name="msg_net_login_err">Network error</string>
+    <string name="msg_email_login_error">Wrong information</string>
+    <string name="label_pick_photo">Choose a photo</string>
+    <string name="label_take_photo">Camera</string>
+    <string name="label_set_photo">Set profile photo</string>
+    <string name="msg_recommand_fri_tex">A Super Hot Messaging App -- MobileOTT! Wanna Know How To Have Fun? Try it: http://www.mobileott.com/</string>
+    <!-- <string name="msg_recommand_fri_tex">Go download MobileOTT to call for free : http://www.mobileott.com/download/</string> -->
+    <string name="msg_recommand_fri_mail_title">I\'m using MobileOTT</string>
+    <string name="msg_not_support_call_v">Vicky doesn\'t want to talk</string>
+    <string name="umeng_common_action_info_exist">Downloading</string>
+    <string name="umeng_common_info_interrupt">Check your network, download failed</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_cancel2">Cancel</string>
+    <string name="umeng_common_download_notification_prefix">Downloading </string>
+    <string name="umeng_common_network_break_alert">Please try later</string>
+    <string name="umeng_common_download_failed">Download failed</string>
+    <string name="UMBreak_Network">Network disconnected</string>
+    <string name="UMUpdateTitle">New version available</string>
+    <string name="UMNewVersion">Latest version:</string>
+    <string name="UMUpdateContent">Update</string>
+    <string name="UMUpdateSize">Download:</string>
+    <string name="UMTargetSize">Size of new version</string>
+    <string name="UMGprsCondition">Note: not connecting to Wifi</string>
+    <string name="UMUpdateNow">Update immediately</string>
+    <string name="UMAppUpdate">App update</string>
+    <string name="UMNotNow">Later</string>
+    <string name="UMToast_IsUpdating">Updating</string>
+    <string name="UMDialog_InstallAPK">Downloaded new version, install?</string>
+    <string name="history_date_format">d MMM</string>
+    <string name="history_detail_date_format">EEEE MMM d HH:mm</string>
+    <string name="messages_date_format">HH:mm d MMM</string>
+    <string name="today_date_format">HH:mm</string>
+    <string name="picture_name_format">VIC-mms-%s.jpg</string>
+    <string name="addressbook_label">MobileOTT</string>
+    <string name="notification_title">MobileOTT</string>
+    <string name="wait_dialog_text">Starting up</string>
+    <string name="notification_registered">Registered to %s </string>
+    <string name="notification_register_failure">Fails to register to %s</string>
+    <string name="about_text">MobileOTT</string>
+    <string name="tunnel_host">MobileOTT</string>
+    <string name="add_friend_menu">Add friend</string>
+    <string name="user_id_not_empty">Please enter your name</string>
+    <string name="time_second">Second</string>
+    <string name="user_info_settings">Setting</string>
+    <string name="user_info_nick_name">User name 1-20</string>
+    <string name="nick_name">Nickname</string>
+    <string name="user_info_name">Name:</string>
+    <string name="user_info_location">Region</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="user_detail_location">Location</string>
+    <string name="user_detail_phone">Phone number</string>
+    <string name="user_detail_update">Modify</string>
+    <string name="user_detail_email">Email address</string>
+    <string name="user_setting_add_friend">Add as friend</string>
+    <string name="xmpp_application_no_net">No network</string>
+    <string name="xmpp_application_location_false">Get location failed</string>
+    <string name="xlistview_header_last">Last update</string>
+    <string name="lx_setting_user_info_server">Using your device\'s contacts list, all your friends already using MobileOTT will be automatically added to your friends list</string>
+    <string name="lx_setting_user_info_auto_add">You will automatically be added onto the friends list of any user who has your phone number saved on their device</string>
+    <string name="xlistview_header_recent_update">Recent update...</string>
+    <string name="msg_request_pincode_frequently">You can only get a verification code once per minute</string>
+    <string name="yesterday">yesterday</string>
+    <string name="before_hour">hours ago</string>
+    <string name="before_minute">minutes ago</string>
+    <string name="network_error_hint_text">Network is unavailable</string>
+    <string name="notification_firend_count"> friends sent </string>
+    <string name="notification_send"> sent </string>
+    <string name="notification_message"> messages</string>
+    <string name="favorite_already_existed">This message is already saved!</string>
+    <!-- for msg long click menu -->
+    <string name="msg_collect">Collect</string>
+    <string name="msg_delete">Delete</string>
+    <string name="Photo_save_phone">Save photo</string>
+    <string name="msg_copy">Copy</string>
+    <string name="msg_forward">forward</string>
+    <string name="msg_collect_success">Added to Private</string>
+    <string name="msg_collect_false">Collect False</string>
+    <string name="forward_from">Forwarded :</string>
+    <string name="prompt">Prompt</string>
+    <string name="confirm_delete">Do you want to clear all?</string>
+    <string name="label_request_fri">Requests</string>
+    <string name="msg_no_request_fri">No request</string>
+    <string name="common_friend">Common Friends</string>
+    <string name="ignore">Ignore</string>
+    <!-- for connect status -->
+    <string name="msg_connecting_server">connecting server...</string>
+    <string name="msg_disconnect_server">connect server error</string>
+
+    <!-- for tangmingyu -->
+    <string name="addCloseFriendsFailed">Failed to add close friend,please try later!</string>
+    <string name="label_return">Do you want to save the modifications?</string>
+    <string name="label_recommand_fri">Recommended</string>
+    <string name="label_add_friss">Add</string>
+    <string name="xmpp_add_friend_by_zxing">Scan QR code</string>
+    <string name="xmpp_add_friend_my_zxing">My QR code</string>
+    <string name="label_friend">Scratch a friend</string>
+    <string name="request_friend_menu">Friend requests</string>
+    <string name="selecting_operation">Note</string>
+    <string name="delete_friend_success">Deleted</string>
+    <string name="delete_friend_false">Failed to delete friend</string>
+    <string name="loading_completed">loaded</string>
+    <string name="label_home">Home</string>
+    <string name="label_calling">Free Call</string>
+    <string name="label_sending">Message</string>
+    <string name="alread_read">Read</string>
+    <string name="not_read">Sent</string>
+    <string name="cancelCall">Call cancelled</string>
+    <string name="delete_chat">Clear chat history</string>
+    <string name="add_vic_friend">Add friend</string>
+    <string name="my_home">Account</string>
+    <string name="my_homepager">Home</string>
+    <string name="set_nickname">Less than 20 characters, with letters or numbers</string>
+    <string name="set_nomename">Less than 40 characters, with letters or numbers</string>
+    <string name="set_signaturename">Less than 80 characters</string>
+    <string name="set_bind_email">After linked your email account, you can login with email address</string>
+    <string name="wait_verify_email">Your email hasn\'t verified, please click on the link sent to your email</string>
+    <string name="set_binding_email">Link email</string>
+    <string name="email_address">Email address</string>
+    <string name="add_qr">Scan the QR code,let\'s MobileOTT together</string>
+    <string name="area">Region</string>
+    <string name="user_head">Profile photo</string>
+    <string name="remove_email">You can use email address login to MobileOTT</string>
+    <string name="verify_email">Not confirmed</string>
+    <string name="again_verity_email">Resend confirmation email</string>
+    <string name="aries">Aries</string>
+    <string name="Gemini">Gemini</string>
+    <string name="Cancer">Cancer</string>
+    <string name="Leo">Leo</string>
+    <string name="Virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagittarius">Sagittarius</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="Pisces">Pisces</string>
+    <string name="Capricorn">Capricorn</string>
+    <string name="Taurus">Taurus</string>
+    <string name="message_setting">Chat settings</string>
+    <string name="isOpen">Open</string>
+    <string name="setting_message_tv">If you want to turn-on or turn-off MobileOTT notification, you can find in your phone settings - notification - MobileOTTHelper </string>
+    <string name="privacy_setting">Change password</string>
+    <string name="synchronization_mobile">Address book matching</string>
+    <string name="Stranger_Dnd_setting">Strangers without alert</string>
+    <string name="check_version">Check update</string>
+    <string name="clean_chat_record">Clear chat history</string>
+    <string name="clean_cache">Clear cache</string>
+    <string name="isGameTA">Find me in Discovery</string>
+    <string name="notice">Notification</string>
+    <string name="setting_notice">If you want to turn-on or turn-off notification, please modify settings in your phone</string>
+    <string name="not_show_notice">Hide message preview</string>
+    <string name="notice_prompt">Turn-on means sender name and message content would not appear in notifications</string>
+    <string name="private_space">Require Private Space password</string>
+    <string name="private_space_open">Opened</string>
+    <string name="private_space_not_open">Closed</string>
+    <string name="private_space_prompt">Require password each time when enter Private Space</string>
+    <string name="make_log_password">Change MobileOTT\'s Password</string>
+    <string name="make_private_space_password">Change Private Space password</string>
+    <string name="now_password">Current password</string>
+    <string name="new_password">New password 6-15</string>
+    <string name="setting_faile">Modify failed</string>
+    <string name="setting_ok">Modify success</string>
+    <string name="signature_name">Signature</string>
+    <string name="remov_bind">Unlink</string>
+    <string name="note_name">Set Alias</string>
+    <string name="clean_success">Cleared</string>
+    <string name="clean_fail">Clear failed</string>
+    <string name="personal_connet">Details</string>
+    <string name="no_noteName">Alias</string>
+    <string name="no_address">None</string>
+    <string name="no_xizuo">None</string>
+    <string name="no_single">None</string>
+    <string name="no_distruble">If open, MobileOTT will be quite between 23:00-7:00</string>
+    <string name="distruble_seting">Do not disturb mode</string>
+    <string name="no_bandle">Not linked</string>
+    <string name="new_message">message</string>
+    <string name="qr_notice">Put QR code in the screen and scan it~</string>
+
+    <!-- 更新title Saifei -->
+
+    <string name="has_no_right_to_record_tips">Please allow MobileOTT to access your microphone from some mobile management tools.</string>
+    <string name="has_new_version">MobileOTT has been updated to a new version! You don\'t want to miss that!</string>
+    <string name="vic">Recent</string>
+    <string name="late_contact">Recent Calls</string>
+    <string name="contact">Friends</string>
+    <string name="findHime">Discovery</string>
+    <string name="findHimeTop">Find New Friends</string>
+    <string name="contact_list_invited">invited</string>
+    <string name="search_friend">Search for friends</string>
+    <string name="other_way">Add contact</string>
+    <string name="delete_tip">By deleting him/her, chat history will be cleared</string>
+    <string name="invite_friend_from_contact">Tell a friend</string>
+    <string name="add_friend_from_sina">Sina Weibo</string>
+    <string name="shield_list">Blacklist</string>
+    <string name="syncronize_sina_weibo">Link Sina Weibo</string>
+    <string name="cancel_syncronize_sina">Disconnect</string>
+    <string name="latest_sync_time">Last update:</string>
+    <string name="personal_center">Account</string>
+    <string name="notification">NAotification</string>
+    <string name="private_share_box">Privatebox</string>
+    <string name="function_setting">Settings</string>
+    <string name="cancel_shield">unblock</string>
+    <string name="del_friend">Delete</string>
+    <string name="ban_friend">Add to Blacklist</string>
+    <string name="cancel_ban_friend">Unblock</string>
+    <string name="input_request_info">Leave a message:</string>
+    <string name="request_hint_info">Add me as friend!</string>
+    <string name="year">-</string>
+    <string name="month">-</string>
+    <string name="day">-</string>
+    <string name="sync_sina_tips">We haven\'t found any of your friend</string>
+    <string name="sync_success">Done</string>
+    <string name="clear_frd_req_title">Clear requests</string>
+    <string name="clear_frd_req_tips">All requests will not appear anymore \n do you want to clear</string>
+    <string name="frd_send_audio_msg">[Voice]</string>
+    <string name="frd_send_pic_msg">[Photo]</string>
+    <string name="frd_send_video_msg">[Video]</string>
+    <string name="frd_send_location_msg">[Location]</string>
+    <string name="frd_send_card_msg">[Name card]</string>
+    <string name="call_canel">Call cancelled</string>
+    <string name="call_time">Called</string>
+    <string name="un_receive_call">Missed call</string>
+    <string name="out_coming_view_call">Calling</string>
+    <string name="call">Calling...</string>
+    <string name="search_frd_edit_hint">Enter phone number/ID/Nickname</string>
+    <string name="call_not_add_frd_tips">He/she hasn\'t added you as friend, you can\'t make phone call. Send him/her a message and ask him/her to add you!</string>
+    <string name="not_frd_call_tips">wants to talk to you, hurry up! Add him/her as friend! Enjoy unlimited call for free~</string>
+    <string name="sina_never_sync_tips">Link with Sina Weibo, you can find your Weibo friends on MobileOTT</string>
+    <string name="view_frd">Check your friends</string>
+    <string name="Notify_frd">Check</string>
+    <string name="add_sina_frd_success">Added Weibo friends</string>
+    <string name="retry_it">Retry</string>
+    <string name="get_sina_frd_err_tips">This weibo account has been used,please change another one</string>
+    <string name="sync_failed">Link failed</string>
+    <string name="add_frd">Add contact</string>
+    <string name="today">Today</string>
+    <string name="shild_list">Blacklist</string>
+    <string name="chat_record_goto_game_symbol">，</string>
+    <string name="chat_record_tips">MobileOTT is more fun with friends!</string>
+    <string name="open_contact_tips">Find them</string>
+    <string name="chat_contact_btn_str"><u>here</u></string>
+    <string name="chat_record_game">Use your lucky,</string>
+    <string name="clickHere"><u>Click</u></string>
+    <string name="chat_record_goto_game">Scratch new friends</string>
+    <string name="paster_store">Store</string>
+    <string name="destroy_after_read">OTR</string>
+    <string name="favorites">Favorites</string>
+    <string name="user_setting_recommend">More</string>
+    <string name="into_pri_share_zoon_tips">Welcome to your own Private Space. Here, chatting is completely free and private. Your private treasures can also be saved here. Enjoy!</string>
+    <string name="set_pwd_hint">Create password 4-15 characters</string>
+    <string name="again_input_pwd_hint">Confirm password</string>
+    <string name="input_pwd_tips">Enter Private Space password</string>
+    <string name="title_pri_share_clo_frd">Heart-friends</string>
+    <string name="title_pri_share_zoon">Private Space</string>
+    <string name="pwd_set_succeed">Password set</string>
+    <string name="pri_space_all">All</string>
+    <string name="pri_zoon_pop_title_pri_talk">Private Message</string>
+    <string name="pri_zoon_pop_title_clo_speak">Private Voice</string>
+    <string name="pri_zoon_pop_title_pri_photo">Private Photo</string>
+    <string name="pri_zoon_forget_pwd"><u>Forgot password?</u></string>
+    <string name="input_account_infos">Enter your account information</string>
+    <string name="reset_pri_zoon_pwd_title">Reset Private Space password</string>
+    <string name="bind_tel">Binding Phone</string>
+    <string name="birth">Birthday</string>
+    <string name="constellation">Constellation</string>
+    <string name="signature">Signature</string>
+    <string name="qr_code_card">QR Code card</string>
+    <string name="logout_current_user">Log out</string>
+    <string name="del_clo_frd">Break up</string>
+    <string name="download_to_phont">Save to phone</string>
+    <string name="net_work_err_tips">Weak network, refresh failed</string>
+    <string name="save_to_phone">Save to phone</string>
+    <string name="select_community_tips">Choosing a Topic</string>
+    <string name="black_list_empty_tip_1">Someone bothers you too much?</string>
+    <string name="black_list_empty_tip_2">Find him/her in contacts</string>
+    <string name="black_list_empty_tip_3">Long press to block his/her calls and messages</string>
+    <string name="post_failed_tips">Sending failed, do you want to resend?</string>
+    <string name="login_pri_space">Private Space</string>
+    <string name="forwar_v_post">Forwarded post</string>
+    <string name="clear_all_community_msg">Clear all messages</string>
+    <string name="community_msg_list">Notification</string>
+    <string name="remove_location">Hide location</string>
+    <string name="add_location">Add location</string>
+    <string name="del_the_pic">Delete photo?</string>
+    <string name="hot_community">Top V-posts</string>
+
+    <!-- for networkstatus -->
+    <string name="label_network_status_tips">Network quality</string>
+    <string name="label_tel_signal_good">Strong</string>
+    <string name="label_tel_signal_bad">Weak</string>
+    <string name="label_weak_connection_msg">Weak network connection, you can send a voice message instead</string>
+
+    <!-- for redownload -->
+    <string name="label_redownload_tip">failed, please download again.</string>
+
+    <!-- nanbj 2013/12/06 -->
+    <string name="msg_delete_success">delete successfully!</string>
+    <string name="msg_delete_failed">Delete failed!</string>
+    <string name="label_update_title">New version</string>
+    <string name="label_update">Update now</string>
+    <string name="label_update_later">Later</string>
+
+    <!-- nanbj 2013/12/08  for  user setting -->
+    <string name="msg_update_userheader_err">Failed to upload profile photo</string>
+
+    <!-- for channel -->
+    <string name="label_spread_channel">11017</string>
+
+    <!-- ShareListActivity -->
+    <string name="ShareListActivity_not_video">不支持此类型文件分享</string>
+    <string name="ShareListActivity_choice">Select</string>
+    <!-- ShareChatListFragment -->
+    <string name="ShareChatListFragment_Select_new_chat">Create new chat</string>
+    <!-- Add fanyukun 2014-2-27 -->
+    <string name="Whisper_android_label">Share via MobileOTT</string>
+    <string name="dynamic_recording_release_prompt">Release to cancel recording</string>
+    <string name="delete">Delete</string>
+    <string name="group_setting_clear_club_cache">Clear Club caches</string>
+    <string name="group_my_share_empty">None</string>
+    <string name="group_calling_prompt">Only your friends in this Club will appear here~</string>
+    <string name="notification_group_personalInfo">friends sent you</string>
+    <string name="notification_group_infogroup">new MobileOTT messages</string>
+    <string name="notification_group_have">You have</string>
+    <string name="toast_no_network">Network disconnected</string>
+    <string name="one_join_to_publish">Hey, say hello to everyone~</string>
+    <string name="toast_load_picture_failure">Loading failed</string>
+    <string name="msg_modify_password_err">Setting password failed</string>
+    <string name="msg_back_to_logout">Press again to leave MobileOTT</string>
+    <string name="msg_delete_close_fri_sucess">Broke up</string>
+    <string name="msg_delete_close_fri_failed">Break up failed</string>
+    <string name="label_recommand_phone">Enter phone number to search</string>
+
+    <!-- 通讯录 -->
+    <string name="contact_frd">Address book friends</string>
+    <string name="add_friend">Add as friend</string>
+    <string name="shield_friend">Add to Blacklist</string>
+    <string name="cansel_sends">Release to cancel recording</string>
+    <string name="take_photo">Camera</string>
+    <string name="voice">Voice</string>
+
+    <!-- 私密空间 -->
+    <string name="cancel_clo_frd">Break up</string>
+    <string name="add_clo_frd">Heart</string>
+    <string name="verify_your_vic_account">Verify your MobileOTT account</string>
+    <string name="verify_et_account_hint">Email/ID/Phone number</string>
+    <string name="verify_account_et_pwd_hint">login password</string>
+    <string name="pri_share_zoon_title">Login</string>
+    <string name="has_set_pwd_et_hint"></string>
+    <string name="pwd_input_err_title">Login failed</string>
+    <string name="pwd_input_err_content">Invalid account information</string>
+    <string name="picture_browse"></string>
+    <string name="not_make_infor">Oops, only friends can edit</string>
+    <string name="more_one">One photo only</string>
+    <string name="more_six">6 photos maximum</string>
+    <string name="cannot_select_any_more">6 photos maximum</string>
+    <string name="Group_Public_Message_at">\@</string>
+    <!-- 社区 -->
+    <string name="delete_content">Delete this post?</string>
+    <string name="no_connect">You haven\'t published any post</string>
+    <string name="send_new_post">Post</string>
+    <string name="post_failed_title">Alarm</string>
+    <string name="cancel_send_feed">Do you want to cancel?</string>
+    <string name="not_found_user_tip">Not found any user\nplease check the information</string>
+    <string name="fail_load">Loading failed</string>
+    <string name="reset_pwd_tips">Set a password to protect your account</string>
+    <string name="pri_space_my_msg">Account</string>
+    <string name="msg_delete_collection_msg_sucess">Deleted</string>
+    <string name="msg_delete_collection_msg_failed">Delete failed</string>
+    <string name="msg_operation_sucess">Added to Blacklist</string>
+    <string name="msg_operation_failed">Blocked failed</string>
+    <string name="name_card">Contact</string>
+    <!-- <string name="vicBegin_Tv_ONE">New friends, messaging off the record, for your FREEDOM!</string> -->
+    <string name="vicBegin_Tv_ONE">New friends, off the records messages,for your freedom.</string>
+    <string name="vicBegin_Tv_Two">Secured and Connected</string>
+    <string name="register_reset_Pass">Reset password</string>
+    <string name="Group_AttcahBar_Image">Photo</string>
+    <string name="Group_AttcahBar_Photo">Camera</string>
+    <string name="Group_AttcahBar_Position">Location</string>
+    <string name="Group_AttcahBar_and">Mention</string>
+    <string name="Group_AttcahBar_speech">Voice</string>
+    <string name="app_Setting_Cancel">Cancel</string>
+    <string name="Pri_space_Background_tv">what! nothing here</string>
+    <string name="community_no_message_prompt">Poor network！\n connection...</string>
+    <string name="SingleChat_Background_audio">Tap here to test call quality!</string>
+    <string name="Register_setting_photograph">Camera</string>
+    <string name="register_setting_telPhoto">Album</string>
+    <string name="register_setting_cancel">Cancel</string>
+    <string name="ShieldList_Test_Top">Blacklist - Stay safe in MobileOTT! Block all unwanted call</string>
+    <string name="noGroup_Text">Announce board is empty</string>
+    <string name="netWork_noNet">Poor network\nconnection~</string>
+    <string name="netWork_no">Oops..network\ndisconnected</string>
+    <string name="group_detail_nullBackgroundTv">Add a comment</string>
+    <string name="facebook">add your facebook friends </string>
+    <string name="Synchronous">synchronizing...</string>
+    <string name="message_notification">You have the new message from V-friend </string>
+    <string name="group_message_notification">You have the new message from V-club </string>
+    <string name="app_id">599527716823312</string>
+    <!-- 单聊陌生人加密友,创建群 -->
+    <string name="newSingle_popup_Keepsecretbox">You must add her/him as friend first and then heart her/him~</string>
+    <string name="newSingle_popup_club">You must add her/him as friend first and then create a club with her/him~</string>
+    <string name="version">You\'ve already installed the lastes version</string>
+    <string name="version_OK">Okay</string>
+    <string name="msg_api_session_err">Network request error.  If this error persist, please logout and login again</string>
+    <string name="datail_type">send to </string>
+    <string name="plate">Topic</string>
+    <string name="noGroup_TopText">Announce board is empty</string>
+    <string name="burn_after_reading">OTR</string>
+    <string name="send_burn_after_reading_voice">Send OTR voice message</string>
+    <string name="send_burn_after_reading_text">Send OTR text message</string>
+    <string name="burn">Burn</string>
+    <string name="burn_timer">BurnTimer</string>
+    <string name="offline_message_notification"> You\'ve received a new MobileOTT message</string>
+
+    <string name="invite_action_label">Add to account SyncAdaper</string>
+    <string name="view_group_action_label">Show account group details</string>
+
+    <!-- 收藏夹 -->
+    <string name="favoriteItemAll">All</string>
+    <string name="favoriteItemText">Text</string>
+    <string name="favoriteItemImage">Image</string>
+    <string name="favoriteItemAudio">Audio</string>
+    <string name="favoriteItemLocation">Location</string>
+
+    <!-- 收藏夹发布图片的popupWindow的文字 -->
+    <string name="takePhoto">Camera</string>
+    <string name="selectFromAlbum">Photo</string>
+
+    <!-- 创建收藏夹的popupWindow -->
+    <string name="favoriteCreatePopupWindowTitle">Type message to save to collections</string>
+    <string name="favoriteCreateAudioMessagePrompt">Hold to talk and save</string>
+    <string name="favoriteDetails">Detail</string>
+
+    <!-- 收藏夹详情页面popupWindow的文字 -->
+    <string name="editPopupWindowSaveToMobile">Save to phone</string>
+    <string name="editPopupWindowSendToFriend">Send to friend</string>
+    <string name="editPopupWindowShareToCommunity">Sharing to O-world</string>
+    <string name="editePopupWindowDelete">Delete</string>
+    <string name="sendPrompt">Sent at</string>
+    <string name="collectPrompt">Save at</string>
+    <string name="othWayTv">Add your friends by ID, phone number and nickname~</string>
+
+    <!-- 选择 -->
+    <string name="Choice_friend_share_choicefriend">Select a friend</string>
+    <string name="Choice_share_prompt_text">Do you want to send to</string>
+    <string name="Choice_share_title">MobileOTT</string>
+    <string name="Choice_share_sharetofriend">Send to friend</string>
+    <string name="Choice_share_sharetocommunity">Share to community</string>
+    <string name="Choice_share_keeptoprivate_space">Save to Private box</string>
+    <string name="Choice_share_keeptofavorite">Save to collections</string>
+    <string name="share_list_friend_creat_new_chat">Create new chat</string>
+    <string name="share_list_friend_recent_chat">Latest</string>
+    <string name="msg_private_sucess">Saved</string>
+    <string name="msg_private_fail">Save failed</string>
+    <!-- 图片进度条的文字 -->
+
+
+    <!--
+    <string name="sending">发送中......</string>
+    <string name="communityBidName">V爆料</string>
+    <string name="communityEssenceName">V精华</string>
+    <string name="communityMoreName">更多</string>
+    <string name="communityMaleName">男来女往</string>
+    <string name="communityFoodName">美食</string>
+    -->
+
+    <string name="communityBidName">V-News</string>
+    <string name="communityEssenceName">V-Select</string>
+    <string name="communityMoreName">More</string>
+    <string name="communityMaleName">Dating</string>
+    <string name="communityFoodName">Food</string>
+    <string name="clearCacheSucess">Cleared!</string>
+    <string name="msg_friend_request">You\'ve received a new friend request</string>
+
+    <!-- 图片的阅后即焚提示 -->
+    <!-- otr_function_tips -->
+    <string name="otr_function_tip_title">Enjoy OTR chatting!</string>
+    <string name="otr_function_tip_text">text</string>
+    <string name="otr_function_tip_voice">voice</string>
+    <string name="otr_function_tip_picture">picture</string>
+    <string name="otr_function_tip_introduce">Type an Off the record message, send it to your friends, they will view and laugh, and message will disappear from their screen !</string>
+    <string name="try_button">Happy chatting!</string>
+    <string name="otr_function_tip_bottomtext">Read more</string>
+    <!-- chat_switch_mode_tips -->
+    <string name="switching_mode_titile1_text">OTR mode</string>
+    <string name="switching_mode_title2_text">Normal mode</string>
+    <string name="switching_mode_title2_2_text">Fast SWITCH by one click!</string>
+    <string name="switching_mode_content_text">Burn or Not Burn,it\'s all Up to You</string>
+    <string name="switching_mode_button_text">Get it!</string>
+    <string name="publish">Send</string>
+    <string name="favoriteTitle">Favorites</string>
+    <string name="pri_zoon_pop_title_all">Privatebox</string>
+    <string name="private_user_setting_share_box">Private Space</string>
+
+    <!-- 阅后即焚 -->
+    <string name="label_text_msg_type">Text</string>
+    <string name="recently">Recently</string>
+    <string name="communityYestarday">Yesterday</string>
+
+    <!-- for weibo login -->
+    <string name="weibosdk_toast_auth_failed">Login failed</string>
+    <string name="weibosdk_login">loading...</string>
+    <string name="weibosdk_toast_auth_canceled">Cancel the account</string>
+
+    <!-- 社区查看大图长按 -->
+    <string name="detailPictur_dialog_sendFriend">Send to your friend</string>
+    <string name="detailPictur_dialog_SavePhoto">Save to album</string>
+    <string name="detailPictur_dialog_Collection">Favorite</string>
+    <!-- 个人信息 我 -->
+    <string name="friend">Friends</string>
+    <string name="meAttention">Pay</string>
+    <string name="meCollection">My Collection</string>
+    <string name="meData">My Profile</string>
+    <string name="collection_folder">Favorite</string>
+    <string name="personal_information">Profile</string>
+    <string name="anecdote">Recent</string>
+    <string name="friends">Friend/s News</string>
+    <string name="mengliao">Top News</string>
+    <string name="moreTribe">More</string>
+    <string name="scratchGiveUp">Cancel</string>
+    <string name="scratchTryAgain">Try Again</string>
+    <string name="Recommended_applications">Recommend</string>
+    <string name="RespondComment">Reply</string>
+    <string name="DeteleComment">Delete</string>
+    <string name="noWarry">Don\'t hush</string>
+    <string name="reply">Reply</string>
+    <string name="MobileOTTHelper_title_content">New friends  messaging off the record  for your FREEDOM! </string>
+    <string name="clear">Clean all</string>
+    <string name="Photo_laud">Like</string>
+    <string name="no_request_friend_propmpt">no request </string>
+    <!-- strings 中英文国际化不全的部分 -->
+    <string name="make_sure_clean_chat">Do you want to clear chat history? </string>
+    <string name="new_version">New version available!Update？</string>
+    <string name="label_sticker_type">Sticker</string>
+    <string name="msg_record_timeout">You have 60sec</string>
+    <string name="msg_new_msg">You‘ve received a new message </string>
+    <string name="save_image_sucess">Save to phone </string>
+    <string name="save_image_err">Save failure</string>
+    <string name="PhoneLogin">Login with mobile phone</string>
+    <string name="myhome_nodata">diving </string>
+    <string name="yourComment">Your comment</string>
+    <string name="helpTitle">MobileOTT</string>
+    <string name="complete">Done</string>
+    <string name="detailPictur_Report">Report</string>
+    <string name="game_blow_hint">Blowing for </string>
+    <string name="game_blow_hint_two">the new friends</string>
+    <string name="isPhone">unbinding</string>
+    <string name="isConstellation_person">Unknown</string>
+   <string name="dialog_isPhone">The phone number has been bound</string>
+    <!-- 发现TA -->
+    <string name="gameFriend">Scratch new friend</string>
+    <string name="gamefriendTitle">Check new friend</string>
+    <string name="gameTwo"> Check new friend</string>
+    <string name="gameblowTitle"> Give a puff</string>
+    <string name="gamethree">Give a puff</string>
+    <string name="kissTitle">Kiss me</string>
+    <string name="gamekiss">Kiss me</string>
+    <string name="fanpaiHint">Check new friend</string>
+    <string name="fanpaiHintTwo">Time to check new friend,your majesty!</string>
+    <string name="game_findhim_kiss_title">Kiss</string>
+    <string name="game_findhim_kiss_content">Don/t be shy. Kiss me now~~</string>
+    <string name="stickerDownloadFailed">Sticker download failed,please try again later.</string>
+    <string name="paster_store_manager">Setting</string>
+    <string name="paster_store_manager_prompt">Stickers</string>
+    <string name="stickerDdeletFailed">Sticker delet failed,please try again later.</string>
+    <string name="detial_feed_report_user">Report this user</string>
+    <string name="detial_feed_report_say">Report this post</string>
+    <string name="tutorials_page_delete">Skip</string>
+    <string name="tutorials_one_first">Click here,</string>
+    <string name="tutorials_one_second">change to the OTR message.</string>
+    <string name="tutorials_one_third">Try it now~</string>
+    <string name="tutorials_two_first">Click here,</string>
+    <string name="tutorials_two_second">call now</string>
+    <string name="tutorials_two_third">~</string>
+    <string name="tutorials_three_first"> Don/t be hide,</string>
+    <string name="tutorials_three_second">Click here,</string>
+    <string name="tutorials_three_three">give a post now~</string>
+    <string name="tutorials_four_first"> Click here,</string>
+    <string name="tutorials_four_second"> strangers/ messages </string>
+    <string name="tutorials_four_third">without alert~</string>
+    <string name="stickerDetail">Details</string>
+    <string name="reportSucessed"> Report success.</string>
+    <string name="reportFailed">Report failes</string>
+    <string name="user_setting_city">City</string>
+    <string name="faceBookPrompt">coming soon</string>
+    <string name="selectPic">Please select a picture</string>
+    <string name="enter_btn_verifypincode">Send Vertification Code</string>
+    <string name="login_more_way">or</string>
+    <string name="tryFirst">Try First</string>
+    <string name="loginPrompt">Having More fun with Login~~</string>
+    <string name="binding_success">Success</string>
+    <string name="have_been_binding">This phone number has been binding,\n please contact our customer service with any questions</string>
+    <!-- OTT -->
+    <string name="msg_thirdpart_not_band_tips">your friend has not bind his MobileOTT account !</string>
+    <string name="msg_bind_sucess">binding sucess！</string>
+    <string name="msg_bind_failed">binding failed！</string>
+    <string name="searchContacts">search Contacts</string>
+    <string name="group_call">ConfCall</string>
+    <string name="group_calling">Click to start group call</string>
+    <string name="group_incoming_prompt">Waiting for other participants</string>
+    <string name="mass">Group</string>
+    <string name="messageSendSuccess">Message send success!</string>
+    <string name="encryptednotice">SecureCall Verification Code: </string>
+    <string name="toopenaccount">You need to activate your VIP account first</string>
+	<string name="confnumber">You are currently being invited to join my confcall. 
+	    If you drop the call for any reason and want to reconnect,  you can find the conf call number 
+	    in the below name card. </string>
+	<string name="incall_notif_active">Audio call ongoing</string>
+	<string name="incall_notif_paused">Paused call ongoing</string>
+	<string name="incall_notif_video">Video capturing call ongoing</string>
+	<string name="notification_started">started</string>    
+	<string name="mytest111">mytest111111</string>
+</resources>

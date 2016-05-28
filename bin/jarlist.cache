@@ -1,0 +1,11 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1421407816000 254088 acd361fd30f9c110a496540597d1e6e2a9d178bd F:\workspace\mottSDK\example\libs\universal-image-loader-1.9.1-SNAPSHOT-with-sources.jar
+1421407816000 254088 acd361fd30f9c110a496540597d1e6e2a9d178bd F:\workspace\mottSDK\OTT_Mobile_SDK_Android\libs\universal-image-loader-1.9.1-SNAPSHOT-with-sources.jar
+1442711822000 1184670 fde22d8d2ef6363324a3d79a1dd16c8645c25564 F:\workspace\mottSDK\example\libs\android-support-v4.jar
+1442711838000 1184670 fde22d8d2ef6363324a3d79a1dd16c8645c25564 F:\workspace\mottSDK\OTT_Mobile_SDK_Android\libs\android-support-v4.jar
+1421415476000 13662 a6d7bce795a14c7f86111756c4ceb44b79de14aa F:\workspace\mottSDK\example\libs\gcm.jar
+1436317636000 13662 a6d7bce795a14c7f86111756c4ceb44b79de14aa F:\workspace\mottSDK\OTT_Mobile_SDK_Android\libs\gcm.jar
+1417661158000 190432 a60a5e993c98c864010053cb901b7eab25306568 F:\workspace\mottSDK\OTT_Mobile_SDK_Android\libs\gson-2.2.4.jar
+1421415476000 190432 a60a5e993c98c864010053cb901b7eab25306568 F:\workspace\mottSDK\example\libs\gson-2.2.4.jar
