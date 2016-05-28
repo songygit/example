@@ -24,7 +24,7 @@ public class MainActivity extends Activity implements View.OnClickListener
 	private Button btInit;
 	private Button btCall;
 	private Button btCallnormalphone;
-	// private Button btLogout;
+	// private Button btLogout; ///
 
 	private EditText myAppUserId;
 	private EditText myAppNickName;
