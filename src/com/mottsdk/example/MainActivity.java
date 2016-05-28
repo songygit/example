@@ -68,7 +68,7 @@ public class MainActivity extends Activity implements View.OnClickListener
 
 		myAppUserId.setText(xxStr);
        
-		String xxx = "songy";
+		String xxx = "songyssss";
 		
 	}
 
